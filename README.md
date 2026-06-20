@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KomalSaini-22/KomalSaini-22/main/images/profile.png" width="220" alt="Komal Saini"/>
+</p>
+
 # Hi 👋, I'm Komal Saini
 
 ### Information Technology Student | Aspiring Data Scientist | AI & Machine Learning Enthusiast
