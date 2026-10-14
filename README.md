@@ -17,12 +17,12 @@
 
 | Domain | Tools & Skills |
 |----------|----------------|
-| Programming | Python, Java, C, JavaScript, HTML, CSS |
+| Programming | Python, JavaScript, HTML, CSS |
 | Data Science | Pandas, NumPy, Matplotlib, Seaborn |
 | Machine Learning | Scikit-Learn, Regression, Classification, Clustering |
 | Data Analysis | EDA, Data Cleaning, Feature Engineering |
 | Web Development | HTML, CSS, JavaScript, Spring Boot |
-| Tools | Git, GitHub, VS Code, Jupyter Notebook, Google Colab |
+| Tools | Git, GitHub, VS Code, Jupyter Notebook |
 | Soft Skills | Problem Solving, Teamwork, Communication, Critical Thinking |
 
 ## 🌟 Featured Projects
